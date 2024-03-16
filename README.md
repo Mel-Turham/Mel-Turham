@@ -52,3 +52,8 @@
     <img src="https://skillicons.dev/icons?i=npm,windows"/>
   </a>
 </p>
+<hr/>
+<h3 align="center">Starts</h3>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mel-Turham&layout=compact"/>
+
