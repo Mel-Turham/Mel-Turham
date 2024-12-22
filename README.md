@@ -1,4 +1,4 @@
-# Hi there, I'm Mel-Turham 👋
+# Hi there, I'm Mel Turham 👋
 
 Welcome to my GitHub profile! I'm a passionate developer who loves coding and exploring new technologies.
 
@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves coding and ex
 - 👯 I’m looking to collaborate on interesting projects and open-source contributions.
 - 🤔 I’m looking for help with improving my knowledge in mobile and Back-end development.
 - 💬 Ask me about anything related to web development and software engineering.
-- 📫 How to reach me: [email@example.com](mailto:email@example.com)
+- 📫 How to reach me: [Email Me](mailto:tchoikuemel06@gmail.com)
 - ⚡ Fun fact: I love playing footbal and Conding.
 
 ## 🛠️ Technologies & Tools
