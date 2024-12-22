@@ -16,16 +16,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves coding and ex
 - Web Development: HTML, CSS, React, Nextjs, Tailwindcss
 - Mobile Development: React-Native, Expo
 - Databases: MySQL, PostgreSQL, MongoDB
-- Tools: Git, Docker, VS Code, Github, Versel
-
-## 📈 GitHub Stats
-![Mel-Turham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mel-Turham&show_icons=true&theme=radical)
-
-## 🏆 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mel-Turham&layout=compact&theme=radical)
-
-## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-profile)
+- Tools: Git, Docker, VS Code, Github, Versel.
 
 Thanks for visiting my profile! Have a great day! 😊
