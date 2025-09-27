@@ -3,6 +3,7 @@
 Welcome to my GitHub profile! I'm a passionate developer who loves coding and exploring new technologies.
 
 ## 🚀 About Me
+
 - 💻 I’m currently working on various personal projects.
 - 🌱 I’m currently learning advanced JavaScript frameworks, Mobile development, and Back-end.
 - 👯 I’m looking to collaborate on interesting projects and open-source contributions.
@@ -12,10 +13,9 @@ Welcome to my GitHub profile! I'm a passionate developer who loves coding and ex
 - ⚡ Fun fact: I love playing football and Coding.
 
 ## 🛠️ Technologies & Tools
+
 - Programming Languages: Python, JavaScript, TypeScript
 - Web Development: HTML, CSS, React, Next.js, Tailwind CSS
 - Mobile Development: React Native, Expo
 - Databases: MySQL, PostgreSQL, MongoDB
 - Tools: Git, Docker, VS Code, GitHub, Vercel
-
-Thanks for visiting my profile! Have a great day! 😊
