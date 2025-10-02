@@ -4,7 +4,7 @@ on:
   push:
     branches: [master]
   schedule:
-    - cron: '0 0 * * *'
+    - cron: "0 0 * * *"
 permissions:
   contents: write
 
@@ -18,8 +18,8 @@ jobs:
           # WakaTime API key stored in secrets, do not directly paste it here
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           # Automatic github token
-          GITHUB_TOKEN: ${{ github.token }}
+          GITHUB_TOKEN: ${{ secrets.ACTIONS_TOKEN }}
           # Branch - newer GitHub repositories have "master" as default branch, change to master in that case, default is master
-          BRANCH: 'master'
+          BRANCH: "master"
           # Manual Commit messages - write your own messages here
-          COMMIT_MSG: 'Automated Coding Activity Update ⚡'
+          COMMIT_MSG: "Automated Coding Activity Update ⚡"
