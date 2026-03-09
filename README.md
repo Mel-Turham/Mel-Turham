@@ -1,9 +1,5 @@
 <div align="center">
-
-# 👋🏼 Hi there! I'm Mel Turham ([@mel-turham](https://github.com/Mel-Turham) | [@mel-turham](https://github.com/Mel-Turham))
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&weight=600&size=20&duration=5000&pause=1000&width=1000&height=30&center=true&vCenter=true&lines=Full-Stack+JavaScript+Developer+|+React%2C+Next.js%2C+Express;TypeScript%2C+Prisma%2C+PostgreSQL%2C+MongoDB;API+Design%2C+Authentication%2C+Real-Time+Apps;Building+Scalable+%26+Modern+Web+Solutions)](https://git.io/typing-svg)
-
+# 👋🏼 Hi there! I'm Mel Turham.
 </div>
 
 ---
