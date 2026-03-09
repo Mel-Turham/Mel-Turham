@@ -1,13 +1,9 @@
-<div align="center">
-# 👋🏼 Hi there! I'm Mel Turham.
-</div>
-
----
 
 <p align="center">
   <a href="https://skillicons.dev"> 
     <!-- Langages et Frameworks -->
     <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,scss,github" />
+    <br>
     <br>
     <!-- Outils et Bases de données -->
     <img src="https://skillicons.dev/icons?i=bash,vscode,nodejs,postgres,docker,git,express,prisma,mongodb" />
@@ -21,8 +17,6 @@
 | Node.js, Express.js, Prisma, MongoDB, PostgreSQL | Next.js, React | JavaScript, TypeScript, CSS (Tailwind, SCSS) | Expo, React Native |
   
 </div>
-
----
 
 <div align="center">
   <a href="https://github.com/Mel-Turham?tab=repositories">
