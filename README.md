@@ -32,6 +32,7 @@ Full-Stack JavaScript Developer building modern and scalable web applications.
 
 <br>
 
+
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
@@ -41,3 +42,8 @@ Full-Stack JavaScript Developer building modern and scalable web applications.
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tchoikuemel06@gmail.com)
 
 </div>
+<br>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mel-Turham&label=Profile%20views&color=0e75b6&style=flat" alt="Mel-Turham" />
+</div>
+
