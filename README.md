@@ -36,36 +36,49 @@ Product-focused software engineer who enjoys building **clean, intuitive interfa
 
 ## Stack
 
-<table>
-  <tr>
-    <th align="center">Languages</th>
-    <th align="center">Frontend</th>
-    <th align="center">Backend &amp; data</th>
-    <th align="center">Mobile</th>
-    <th align="center">Tools</th>
-  </tr>
-  <tr>
-    <td align="center" valign="top">
-      <p><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts&theme=dark" /><img src="https://skillicons.dev/icons?i=ts&theme=light" width="44" height="44" alt="TypeScript" title="TypeScript" /></picture> &nbsp;&nbsp; <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js&theme=dark" /><img src="https://skillicons.dev/icons?i=js&theme=light" width="44" height="44" alt="JavaScript" title="JavaScript" /></picture> &nbsp;&nbsp; <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs&theme=dark" /><img src="https://skillicons.dev/icons?i=nodejs&theme=light" width="44" height="44" alt="Node.js" title="Node.js" /></picture></p>
-      <p><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go&theme=dark" /><img src="https://skillicons.dev/icons?i=go&theme=light" width="44" height="44" alt="Go" title="Go" /></picture></p>
-    </td>
-    <td align="center" valign="top">
-      <p><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react&theme=dark" /><img src="https://skillicons.dev/icons?i=react&theme=light" width="44" height="44" alt="React" title="React" /></picture> &nbsp;&nbsp; <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs&theme=dark" /><img src="https://skillicons.dev/icons?i=nextjs&theme=light" width="44" height="44" alt="Next.js" title="Next.js" /></picture> &nbsp;&nbsp; <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=tailwind&theme=dark" /><img src="https://skillicons.dev/icons?i=tailwind&theme=light" width="44" height="44" alt="Tailwind CSS" title="Tailwind CSS" /></picture></p>
-      <p><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=sass&theme=dark" /><img src="https://skillicons.dev/icons?i=sass&theme=light" width="44" height="44" alt="SCSS" title="SCSS" /></picture> &nbsp;&nbsp; <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html&theme=dark" /><img src="https://skillicons.dev/icons?i=html&theme=light" width="44" height="44" alt="HTML5" title="HTML5" /></picture> &nbsp;&nbsp; <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=css&theme=dark" /><img src="https://skillicons.dev/icons?i=css&theme=light" width="44" height="44" alt="CSS3" title="CSS3" /></picture></p>
-    </td>
-    <td align="center" valign="top">
-      <p><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=express&theme=dark" /><img src="https://skillicons.dev/icons?i=express&theme=light" width="44" height="44" alt="Express.js" title="Express.js" /></picture> &nbsp;&nbsp; <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=prisma&theme=dark" /><img src="https://skillicons.dev/icons?i=prisma&theme=light" width="44" height="44" alt="Prisma" title="Prisma" /></picture> &nbsp;&nbsp; <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.readmecodegen.com/api/social-icon?name=mongoose&size=48&shape=rect&bg=%23242938&color=%23ffffff" /><img src="https://www.readmecodegen.com/api/social-icon?name=mongoose&size=48&shape=rect&bg=%23F4F2ED&color=%23242938" width="44" height="44" alt="Mongoose" title="Mongoose" /></picture></p>
-      <p><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres&theme=dark" /><img src="https://skillicons.dev/icons?i=postgres&theme=light" width="44" height="44" alt="PostgreSQL" title="PostgreSQL" /></picture> &nbsp;&nbsp; <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql&theme=dark" /><img src="https://skillicons.dev/icons?i=mysql&theme=light" width="44" height="44" alt="MySQL" title="MySQL" /></picture> &nbsp;&nbsp; <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mongodb&theme=dark" /><img src="https://skillicons.dev/icons?i=mongodb&theme=light" width="44" height="44" alt="MongoDB" title="MongoDB" /></picture></p>
-    </td>
-    <td align="center" valign="top">
-      <p><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react&theme=dark" /><img src="https://skillicons.dev/icons?i=react&theme=light" width="44" height="44" alt="React Native" title="React Native" /></picture> &nbsp;&nbsp; <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.readmecodegen.com/api/social-icon?name=expo&size=48&shape=rect&bg=%23242938&color=%23ffffff" /><img src="https://www.readmecodegen.com/api/social-icon?name=expo&size=48&shape=rect&bg=%23F4F2ED&color=%23242938" width="44" height="44" alt="Expo · Expo Router" title="Expo · Expo Router" /></picture></p>
-    </td>
-    <td align="center" valign="top">
-      <p><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git&theme=dark" /><img src="https://skillicons.dev/icons?i=git&theme=light" width="44" height="44" alt="Git" title="Git" /></picture> &nbsp;&nbsp; <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=github&theme=dark" /><img src="https://skillicons.dev/icons?i=github&theme=light" width="44" height="44" alt="GitHub" title="GitHub" /></picture> &nbsp;&nbsp; <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=githubactions&theme=dark" /><img src="https://skillicons.dev/icons?i=githubactions&theme=light" width="44" height="44" alt="GitHub Actions" title="GitHub Actions" /></picture></p>
-      <p><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postman&theme=dark" /><img src="https://skillicons.dev/icons?i=postman&theme=light" width="44" height="44" alt="Postman" title="Postman" /></picture> &nbsp;&nbsp; <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vercel&theme=dark" /><img src="https://skillicons.dev/icons?i=vercel&theme=light" width="44" height="44" alt="Vercel" title="Vercel" /></picture></p>
-    </td>
-  </tr>
-</table>
+<p>
+  <sub><b>LANGUAGES</b></sub><br />
+  <img src="https://img.shields.io/badge/TypeScript-%2320232a.svg?style=for-the-badge&logo=typescript&logoColor=%233178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-%2320232a.svg?style=for-the-badge&logo=nodedotjs&logoColor=%235FA04E" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Go-%2320232a.svg?style=for-the-badge&logo=go&logoColor=%2300ADD8" alt="Go" />
+</p>
+
+<p>
+  <sub><b>FRONTEND</b></sub><br />
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-%2320232a.svg?style=for-the-badge&logo=nextdotjs&logoColor=%23FFFFFF" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-%2320232a.svg?style=for-the-badge&logo=tailwindcss&logoColor=%2306B6D4" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/SCSS-%2320232a.svg?style=for-the-badge&logo=sass&logoColor=%23CC6699" alt="SCSS" />
+  <img src="https://img.shields.io/badge/HTML5-%2320232a.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-%2320232a.svg?style=for-the-badge&logo=css&logoColor=%23663399" alt="CSS3" />
+</p>
+
+<p>
+  <sub><b>BACKEND &amp; DATA</b></sub><br />
+  <img src="https://img.shields.io/badge/Express.js-%2320232a.svg?style=for-the-badge&logo=express&logoColor=%23FFFFFF" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Prisma-%2320232a.svg?style=for-the-badge&logo=prisma&logoColor=%23FFFFFF" alt="Prisma" />
+  <img src="https://img.shields.io/badge/Mongoose-%2320232a.svg?style=for-the-badge&logo=mongoose&logoColor=%23FFFFFF" alt="Mongoose" />
+  <img src="https://img.shields.io/badge/PostgreSQL-%2320232a.svg?style=for-the-badge&logo=postgresql&logoColor=%234169E1" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-%2320232a.svg?style=for-the-badge&logo=mysql&logoColor=%234479A1" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-%2320232a.svg?style=for-the-badge&logo=mongodb&logoColor=%2347A248" alt="MongoDB" />
+</p>
+
+<p>
+  <sub><b>MOBILE</b></sub><br />
+  <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-%2320232a.svg?style=for-the-badge&logo=expo&logoColor=%23FFFFFF" alt="Expo" />
+  <img src="https://img.shields.io/badge/Expo_Router-%2320232a.svg?style=for-the-badge&logo=expo&logoColor=%23FFFFFF" alt="Expo Router" />
+</p>
+
+<p>
+  <sub><b>TOOLS</b></sub><br />
+  <img src="https://img.shields.io/badge/Git-%2320232a.svg?style=for-the-badge&logo=git&logoColor=%23F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-%2320232a.svg?style=for-the-badge&logo=github&logoColor=%23FFFFFF" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-%2320232a.svg?style=for-the-badge&logo=githubactions&logoColor=%232088FF" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Postman-%2320232a.svg?style=for-the-badge&logo=postman&logoColor=%23FF6C37" alt="Postman" />
+  <img src="https://img.shields.io/badge/Vercel-%2320232a.svg?style=for-the-badge&logo=vercel&logoColor=%23FFFFFF" alt="Vercel" />
+</p>
 
 ## Activity
 
