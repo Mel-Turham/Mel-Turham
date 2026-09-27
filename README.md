@@ -17,12 +17,13 @@
 
 ## About
 
-Product-focused software engineer who enjoys building **clean, intuitive interfaces** with **React, Next.js and TypeScript**, and growing into **full-stack and mobile** work by shipping real projects.
+I'm a **product-focused software engineer** from Douala, Cameroon. I build **clean, intuitive interfaces** with **React, Next.js and TypeScript**, and I'm growing into **full-stack and mobile** work by shipping real products.
 
-- 🛠️ Front-end developer on **[NEXMA](https://melturham.me/projects/nexma)**, a SaaS for running teams: calendar, contracts, members and authentication.
-- 🎓 Master's in Software Engineering, Coastal University Institute (IUC), Douala.
-- 🌱 Still learning every day: sharpening fundamentals, writing more reliable code, and learning **Go**.
-- 📍 Douala, Cameroon · 🇫🇷 French, 🇬🇧 English
+- 💼 **Full-stack developer at [HES Digital Service](https://www.hesdigitalservices.com)** (2024–2026). I built the front ends of **[NEXMA](https://melturham.me/projects/nexma)**, a SaaS for running teams, and **[Multi-Services EG](https://melturham.me/projects/multi-services-eg)**, a cleaning company's website with an online shop and admin dashboard.
+- 🎓 **Master's in Software Engineering**, Coastal University Institute (IUC), Douala, 2026.
+- 🌱 **Still learning every day**: sharpening fundamentals, writing more reliable code, and picking up **Go**.
+- 🗣️ **French** (native) · **English** (improving)
+- 📫 Reach me at **[tchoikuemel06@gmail.com](mailto:tchoikuemel06@gmail.com)** or on **[melturham.me](https://melturham.me)**.
 
 ## Featured projects
 
@@ -33,52 +34,6 @@ Product-focused software engineer who enjoys building **clean, intuitive interfa
 | **[CITIVA Consult](https://melturham.me/projects/citiva-consult)** | Corporate website for a construction and consulting company, content in Sanity CMS | Next.js · Sanity · TypeScript |
 
 <sub>More on **[melturham.me/projects](https://melturham.me/projects)**.</sub>
-
-## Stack
-
-<p>
-  <sub><b>LANGUAGES</b></sub><br />
-  <img src="https://img.shields.io/badge/TypeScript-%2320232a.svg?style=for-the-badge&logo=typescript&logoColor=%233178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Node.js-%2320232a.svg?style=for-the-badge&logo=nodedotjs&logoColor=%235FA04E" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Go-%2320232a.svg?style=for-the-badge&logo=go&logoColor=%2300ADD8" alt="Go" />
-</p>
-
-<p>
-  <sub><b>FRONTEND</b></sub><br />
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-%2320232a.svg?style=for-the-badge&logo=nextdotjs&logoColor=%23FFFFFF" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-%2320232a.svg?style=for-the-badge&logo=tailwindcss&logoColor=%2306B6D4" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/SCSS-%2320232a.svg?style=for-the-badge&logo=sass&logoColor=%23CC6699" alt="SCSS" />
-  <img src="https://img.shields.io/badge/HTML5-%2320232a.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-%2320232a.svg?style=for-the-badge&logo=css&logoColor=%23663399" alt="CSS3" />
-</p>
-
-<p>
-  <sub><b>BACKEND &amp; DATA</b></sub><br />
-  <img src="https://img.shields.io/badge/Express.js-%2320232a.svg?style=for-the-badge&logo=express&logoColor=%23FFFFFF" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Prisma-%2320232a.svg?style=for-the-badge&logo=prisma&logoColor=%23FFFFFF" alt="Prisma" />
-  <img src="https://img.shields.io/badge/Mongoose-%2320232a.svg?style=for-the-badge&logo=mongoose&logoColor=%23FFFFFF" alt="Mongoose" />
-  <img src="https://img.shields.io/badge/PostgreSQL-%2320232a.svg?style=for-the-badge&logo=postgresql&logoColor=%234169E1" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-%2320232a.svg?style=for-the-badge&logo=mysql&logoColor=%234479A1" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-%2320232a.svg?style=for-the-badge&logo=mongodb&logoColor=%2347A248" alt="MongoDB" />
-</p>
-
-<p>
-  <sub><b>MOBILE</b></sub><br />
-  <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/Expo-%2320232a.svg?style=for-the-badge&logo=expo&logoColor=%23FFFFFF" alt="Expo" />
-  <img src="https://img.shields.io/badge/Expo_Router-%2320232a.svg?style=for-the-badge&logo=expo&logoColor=%23FFFFFF" alt="Expo Router" />
-</p>
-
-<p>
-  <sub><b>TOOLS</b></sub><br />
-  <img src="https://img.shields.io/badge/Git-%2320232a.svg?style=for-the-badge&logo=git&logoColor=%23F05032" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-%2320232a.svg?style=for-the-badge&logo=github&logoColor=%23FFFFFF" alt="GitHub" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-%2320232a.svg?style=for-the-badge&logo=githubactions&logoColor=%232088FF" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Postman-%2320232a.svg?style=for-the-badge&logo=postman&logoColor=%23FF6C37" alt="Postman" />
-  <img src="https://img.shields.io/badge/Vercel-%2320232a.svg?style=for-the-badge&logo=vercel&logoColor=%23FFFFFF" alt="Vercel" />
-</p>
 
 ## Activity
 
