@@ -35,15 +35,3 @@ I'm a **product-focused software engineer** from Douala, Cameroon. I build **cle
 
 <sub>More on **[melturham.me/projects](https://melturham.me/projects)**.</sub>
 
-## Activity
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Mel-Turham&theme=dark&hide_border=true&background=0D1117" />
-    <img src="https://streak-stats.demolab.com/?user=Mel-Turham&hide_border=true" alt="GitHub contribution streak" />
-  </picture>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mel-Turham&label=Profile%20views&color=52525b&style=flat-square" alt="Profile views" />
-</div>
