@@ -1,47 +1,84 @@
-<h1 align="center">Hi 👋 I'm Mel Turham</h1>
-
-<p align="center">
-Full-Stack JavaScript Developer building modern and scalable web applications.
-</p>
-
-<br>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <!-- Languages & Frontend -->
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,scss" />
-    <br><br>
-    <!-- Backend & Tools -->
-    <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mongodb,docker,git,github,bash,vscode" />
-  </a>
-</p>
-
-<br>
-
 <div align="center">
 
-| 🖥️ Backend | 🌐 Frameworks | 🎨 Frontend | 📱 Mobile |
-|:---:|:---:|:---:|:---:|
-| Node.js • Express • Prisma | Next.js • React | TypeScript • JavaScript • Tailwind • SCSS | React Native • Expo |
+# Mel Turham
+
+<a href="https://melturham.me">
+  <img src="https://readme-typing-svg.demolab.com/?font=Geist+Mono&weight=500&size=20&duration=3000&pause=1200&color=71717A&center=true&vCenter=true&width=520&lines=Software+Engineer+%C2%B7+Full-Stack+%26+Mobile;React%2C+Next.js+%26+TypeScript;Building+for+the+web.+Details+matter.;Based+in+Douala%2C+Cameroon" alt="Software Engineer · Full-Stack & Mobile" />
+</a>
+
+[![Portfolio](https://img.shields.io/badge/melturham.me-18181B?style=flat-square&logo=vercel&logoColor=white)](https://melturham.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mel-turham)
+[![X](https://img.shields.io/badge/@melturham-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/melturham)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tchoikuemel06@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-PDF-52525B?style=flat-square&logo=readdotcv&logoColor=white)](https://melturham.me/resume/TCHOIKUE_MEL_TURHAM_RESUME.pdf)
 
 </div>
 
+## About
 
+Product-focused software engineer who enjoys building **clean, intuitive interfaces** with **React, Next.js and TypeScript**, and growing into **full-stack and mobile** work by shipping real projects.
 
-<br>
+- 🛠️ Front-end developer on **[NEXMA](https://melturham.me/projects/nexma)**, a SaaS for running teams: calendar, contracts, members and authentication.
+- 🎓 Master's in Software Engineering, Coastal University Institute (IUC), Douala.
+- 🌱 Still learning every day: sharpening fundamentals, writing more reliable code, and learning **Go**.
+- 📍 Douala, Cameroon · 🇫🇷 French, 🇬🇧 English
 
+## Featured projects
+
+| Project | What it is | Stack |
+| :--- | :--- | :--- |
+| **[NEXMA](https://melturham.me/projects/nexma)** | Organizational management SaaS: shared calendar, roles, contracts and time tracking | Next.js · TypeScript · Tailwind CSS |
+| **[Diggers & Bandits](https://melturham.me/projects/diggers-and-bandits)** | Website for an RC construction experience, with a multi-step booking request | Next.js · React · TypeScript |
+| **[CITIVA Consult](https://melturham.me/projects/citiva-consult)** | Corporate website for a construction and consulting company, content in Sanity CMS | Next.js · Sanity · TypeScript |
+
+<sub>More on **[melturham.me/projects](https://melturham.me/projects)**.</sub>
+
+## Stack
+
+**Languages**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,nodejs,go&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,go&theme=light" alt="TypeScript, JavaScript, Node.js, Go" />
+</picture>
+
+**Frontend**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,tailwind,sass,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,sass,html,css&theme=light" alt="React, Next.js, Tailwind CSS, SCSS, HTML, CSS" />
+</picture>
+
+**Backend &amp; data**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=express,prisma,postgres,mysql,mongodb&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=express,prisma,postgres,mysql,mongodb&theme=light" alt="Express.js, Prisma, PostgreSQL, MySQL, MongoDB" />
+</picture>
+
+**Mobile** · React Native, Expo, Expo Router
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react&theme=light" alt="React Native" />
+</picture>
+
+**Tools**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,githubactions,postman,vercel&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,vercel&theme=light" alt="Git, GitHub, GitHub Actions, Postman, Vercel" />
+</picture>
+
+## Activity
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/mel_turham/)
-[![Threads](https://img.shields.io/badge/Threads-000000?style=flat-square&logo=threads&logoColor=white)](https://www.threads.com/@mel_turham)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/MelTurham)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tchoikuemel06@gmail.com)
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Mel-Turham&theme=dark&hide_border=true&background=0D1117" />
+    <img src="https://streak-stats.demolab.com/?user=Mel-Turham&hide_border=true" alt="GitHub contribution streak" />
+  </picture>
 </div>
-<br>
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mel-Turham&label=Profile%20views&color=0e75b6&style=flat" alt="Mel-Turham" />
+  <img src="https://komarev.com/ghpvc/?username=Mel-Turham&label=Profile%20views&color=52525b&style=flat-square" alt="Profile views" />
 </div>
-
