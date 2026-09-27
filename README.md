@@ -38,22 +38,22 @@ Product-focused software engineer who enjoys building **clean, intuitive interfa
 **Languages**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,nodejs,go&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,go&theme=light" alt="TypeScript, JavaScript, Node.js, Go" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Cnodejs%2Cgo&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts%2Cjs%2Cnodejs%2Cgo&theme=light" alt="TypeScript, JavaScript, Node.js, Go" />
 </picture>
 
 **Frontend**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,tailwind,sass,html,css&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,sass,html,css&theme=light" alt="React, Next.js, Tailwind CSS, SCSS, HTML, CSS" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react%2Cnextjs%2Ctailwind%2Csass%2Chtml%2Ccss&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react%2Cnextjs%2Ctailwind%2Csass%2Chtml%2Ccss&theme=light" alt="React, Next.js, Tailwind CSS, SCSS, HTML, CSS" />
 </picture>
 
 **Backend &amp; data**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=express,prisma,postgres,mysql,mongodb&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=express,prisma,postgres,mysql,mongodb&theme=light" alt="Express.js, Prisma, PostgreSQL, MySQL, MongoDB" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=express%2Cprisma%2Cpostgres%2Cmysql%2Cmongodb&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=express%2Cprisma%2Cpostgres%2Cmysql%2Cmongodb&theme=light" alt="Express.js, Prisma, PostgreSQL, MySQL, MongoDB" />
 </picture>
 
 **Mobile** · React Native, Expo, Expo Router
@@ -66,8 +66,8 @@ Product-focused software engineer who enjoys building **clean, intuitive interfa
 **Tools**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,githubactions,postman,vercel&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,vercel&theme=light" alt="Git, GitHub, GitHub Actions, Postman, Vercel" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git%2Cgithub%2Cgithubactions%2Cpostman%2Cvercel&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git%2Cgithub%2Cgithubactions%2Cpostman%2Cvercel&theme=light" alt="Git, GitHub, GitHub Actions, Postman, Vercel" />
 </picture>
 
 ## Activity
