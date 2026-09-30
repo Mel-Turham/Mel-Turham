@@ -7,8 +7,6 @@
   </picture>
 </a>
 
-[![Portfolio](https://img.shields.io/badge/melturham.me-18181B?style=flat-square&logo=vercel&logoColor=white)](https://melturham.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mel-turham)
 [![X](https://img.shields.io/badge/@melturham-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/melturham)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tchoikuemel06@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-PDF-52525B?style=flat-square&logo=readdotcv&logoColor=white)](https://melturham.me/resume/TCHOIKUE_MEL_TURHAM_RESUME.pdf)
