@@ -17,7 +17,7 @@
 
 ## About
 
-I'm a **Software Engineer** based in Douala, Cameroon, focused on building reliable and maintainable web applications with **TypeScript, React, Next.js, and Node.js**. I work across the development lifecycle, from designing interfaces and APIs to integrating databases and shipping production-ready features.
+I'm a **Software Engineer** based in Douala, Cameroon, focused on building practical, reliable, and well-structured digital products. I enjoy turning ideas and requirements into thoughtful user experiences and production-ready software, with an emphasis on clean architecture, maintainability, and attention to detail.
 
 * 💼 **Software Engineer at [HES Digital Service](https://www.hesdigitalservices.com/)**, contributing to web and mobile products used to solve real business and organizational needs.
 * 🚀 Built and contributed to products such as [**NEXMA**](https://melturham.me/projects/nexma), a SaaS platform for team and organization management, and [**Multi-Services EG**](https://melturham.me/projects/multi-services-eg), a business platform with an online shop and administration tools.
@@ -28,11 +28,50 @@ I'm a **Software Engineer** based in Douala, Cameroon, focused on building relia
 
 ## Featured projects
 
-| Project | What it is | Stack |
-| :--- | :--- | :--- |
-| **[NEXMA](https://melturham.me/projects/nexma)** | Organizational management SaaS: shared calendar, roles, contracts and time tracking | Next.js · TypeScript · Tailwind CSS |
-| **[Diggers & Bandits](https://melturham.me/projects/diggers-and-bandits)** | Website for an RC construction experience, with a multi-step booking request | Next.js · React · TypeScript |
-| **[CITIVA Consult](https://melturham.me/projects/citiva-consult)** | Corporate website for a construction and consulting company, content in Sanity CMS | Next.js · Sanity · TypeScript |
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<sub>More on **[melturham.me/projects](https://melturham.me/projects)**.</sub>
+### [NEXMA](https://melturham.me/projects/nexma)
+
+A SaaS platform for managing teams and organizations, covering scheduling, contracts, roles, and time tracking.
+
+**[View project →](https://melturham.me/projects/nexma)**
+
+</td>
+<td width="50%" valign="top">
+
+### [Diggers & Bandits](https://melturham.me/projects/diggers-and-bandits)
+
+An interactive website for an RC construction experience, featuring a guided multi-step booking flow.
+
+**[View project →](https://melturham.me/projects/diggers-and-bandits)**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### [CITIVA Consult](https://melturham.me/projects/citiva-consult)
+
+A corporate website for a construction and consulting firm, with structured content managed through a CMS.
+
+**[View project →](https://melturham.me/projects/citiva-consult)**
+
+</td>
+<td width="50%" valign="top">
+
+### More
+
+Explore more projects, experiments, and work in progress on my portfolio.
+
+**[View all projects →](https://melturham.me/projects)**
+
+</td>
+</tr>
+</table>
+
+
+
 
