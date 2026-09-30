@@ -19,9 +19,10 @@
 
 I'm a **Software Engineer** based in Douala, Cameroon, focused on building reliable and maintainable web applications with **TypeScript, React, Next.js, and Node.js**. I work across the development lifecycle, from designing interfaces and APIs to integrating databases and shipping production-ready features.
 
-* 💼 **Software Engineer at [HES Digital Service](https://www.hesdigitalservices.com/)**, working on web and mobile products including [**NEXMA**](https://melturham.me/projects/nexma), a SaaS platform for team and organization management, and [**Multi-Services EG**](https://melturham.me/projects/multi-services-eg), a business website with an online shop and admin dashboard.
+* 💼 **Software Engineer at [HES Digital Service](https://www.hesdigitalservices.com/)**, contributing to web and mobile products used to solve real business and organizational needs.
+* 🚀 Built and contributed to products such as [**NEXMA**](https://melturham.me/projects/nexma), a SaaS platform for team and organization management, and [**Multi-Services EG**](https://melturham.me/projects/multi-services-eg), a business platform with an online shop and administration tools.
 * 🎓 **Master's in Software Engineering**, Coastal University Institute (IUC), Douala, 2026.
-* 🛠️ **Current focus:** scalable application architecture, backend development with **Node.js and Express**, software engineering fundamentals, and **Go**.
+* 🧠 Interested in **software architecture, product development, backend systems, and engineering fundamentals**.
 * 🗣️ **French** (native) · **English** (improving)
 * 📫 Reach me at [**tchoikuemel06@gmail.com**](mailto:tchoikuemel06@gmail.com) or visit [**melturham.me**](https://melturham.me/).
 
