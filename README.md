@@ -17,13 +17,13 @@
 
 ## About
 
-I'm a **product-focused software engineer** from Douala, Cameroon. I build **clean, intuitive interfaces** with **React, Next.js and TypeScript**, and I'm growing into **full-stack and mobile** work by shipping real products.
+I'm a **Software Engineer** based in Douala, Cameroon, focused on building reliable and maintainable web applications with **TypeScript, React, Next.js, and Node.js**. I work across the development lifecycle, from designing interfaces and APIs to integrating databases and shipping production-ready features.
 
-- 💼 **Full-stack developer at [HES Digital Service](https://www.hesdigitalservices.com)** (2024–2026). I built the front ends of **[NEXMA](https://melturham.me/projects/nexma)**, a SaaS for running teams, and **[Multi-Services EG](https://melturham.me/projects/multi-services-eg)**, a cleaning company's website with an online shop and admin dashboard.
-- 🎓 **Master's in Software Engineering**, Coastal University Institute (IUC), Douala, 2026.
-- 🌱 **Still learning every day**: sharpening fundamentals, writing more reliable code, and picking up **Go**.
-- 🗣️ **French** (native) · **English** (improving)
-- 📫 Reach me at **[tchoikuemel06@gmail.com](mailto:tchoikuemel06@gmail.com)** or on **[melturham.me](https://melturham.me)**.
+* 💼 **Software Engineer at [HES Digital Service](https://www.hesdigitalservices.com/)**, working on web and mobile products including [**NEXMA**](https://melturham.me/projects/nexma), a SaaS platform for team and organization management, and [**Multi-Services EG**](https://melturham.me/projects/multi-services-eg), a business website with an online shop and admin dashboard.
+* 🎓 **Master's in Software Engineering**, Coastal University Institute (IUC), Douala, 2026.
+* 🛠️ **Current focus:** scalable application architecture, backend development with **Node.js and Express**, software engineering fundamentals, and **Go**.
+* 🗣️ **French** (native) · **English** (improving)
+* 📫 Reach me at [**tchoikuemel06@gmail.com**](mailto:tchoikuemel06@gmail.com) or visit [**melturham.me**](https://melturham.me/).
 
 ## Featured projects
 
