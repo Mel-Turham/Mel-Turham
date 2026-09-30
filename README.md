@@ -3,7 +3,7 @@
 <a href="https://melturham.me">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="images/header-dark.svg" />
-    <img src="images/header-light.svg" width="100%" alt="Mel Turham, Software Engineer, Full-Stack &amp; Mobile. Douala, Cameroon" />
+    <img src="images/header-light.svg" width="100%" alt="Mel Turham — Software Engineer based in Douala, Cameroon" />
   </picture>
 </a>
 
@@ -24,9 +24,12 @@ I'm a **Software Engineer** based in Douala, Cameroon, focused on building pract
 * 🎓 **Master's in Software Engineering**, Coastal University Institute (IUC), Douala, 2026.
 * 🧠 Interested in **software architecture, product development, backend systems, and engineering fundamentals**.
 * 🗣️ **French** (native) · **English** (improving)
-* 📫 Reach me at [**tchoikuemel06@gmail.com**](mailto:tchoikuemel06@gmail.com) or visit [**melturham.me**](https://melturham.me/).
 
-## Featured projects
+## What I care about
+
+**Good software is more than working software.** I care about clear architecture, thoughtful UX, reliable systems, and code that remains easy to understand as a product grows.
+
+## Selected work
 
 <table>
 <tr>
@@ -62,16 +65,18 @@ A corporate website for a construction and consulting firm, with structured cont
 </td>
 <td width="50%" valign="top">
 
-### More
+### More projects coming
 
-Explore more projects, experiments, and work in progress on my portfolio.
-
-**[View all projects →](https://melturham.me/projects)**
+I'm continuously building and experimenting with new products across web, backend, and AI.
 
 </td>
 </tr>
 </table>
 
+<p align="center">
+  <a href="https://melturham.me/projects">View all projects →</a>
+</p>
 
+## Currently
 
-
+Building full-stack products, going deeper into backend engineering, and exploring practical applications of AI in software products.
