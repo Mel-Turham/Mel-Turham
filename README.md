@@ -77,6 +77,3 @@ I'm continuously building and experimenting with new products across web, backen
   <a href="https://melturham.me/projects">View all projects →</a>
 </p>
 
-## Currently
-
-Building full-stack products, going deeper into backend engineering, and exploring practical applications of AI in software products.
