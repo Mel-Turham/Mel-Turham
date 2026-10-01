@@ -15,7 +15,7 @@
 
 ## About
 
-I'm a **Software Engineer** based in Douala, Cameroon, focused on building practical, reliable, and well-structured digital products. I enjoy turning ideas and requirements into thoughtful user experiences and production-ready software, with an emphasis on clean architecture, maintainability, and attention to detail.
+I'm a **Mid-level Software Engineerr** based in Douala, Cameroon, focused on building practical, reliable, and well-structured digital products. I enjoy turning ideas and requirements into thoughtful user experiences and production-ready software, with an emphasis on clean architecture, maintainability, and attention to detail.
 
 * 💼 **Software Engineer at [HES Digital Service](https://www.hesdigitalservices.com/)**, contributing to web and mobile products used to solve real business and organizational needs.
 * 🚀 Built and contributed to products such as [**NEXMA**](https://melturham.me/projects/nexma), a SaaS platform for team and organization management, and [**Multi-Services EG**](https://melturham.me/projects/multi-services-eg), a business platform with an online shop and administration tools.
