@@ -3,11 +3,12 @@
 <a href="https://melturham.me">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="images/header-dark.svg" />
-    <img src="images/header-light.svg" width="100%" alt="Mel Turham — Software Engineer based in Douala, Cameroon" />
+    <img src="images/header-light.svg" width="100%" alt="Mel Turham — Mid-level Software Engineer based in Douala, Cameroon" />
   </picture>
 </a>
 
 [![X](https://img.shields.io/badge/@melturham-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/melturham)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIyLjI3NCAwSDEuNzI4Qy42OTIgMCAwIC42ODUgMCAxLjcxNXYyMC41NjlDMCAyMy4zMTYuODY0IDI0IDEuNzI3IDI0aDIwLjU0NkMyMy4zMSAyNCAyNCAyMy4zMTUgMjQgMjIuMjg1VjEuNzE2QzI0LjAwMS42ODQgMjMuMzEgMCAyMi4yNzQgME03LjA4IDIwLjRIMy40NTRWOC45MTVoMy42MjV6TTUuMzUyIDcuMzcxYy0xLjIwOSAwLTIuMDctLjg1Ni0yLjA3LTIuMDU2cy44NjMtMi4wNTkgMi4wNy0yLjA1OWMxLjIxIDAgMi4wNzMuODU5IDIuMDczIDIuMDU5UzYuMzg4IDcuMzcgNS4zNTIgNy4zN00yMC41NDggMjAuNGgtMy42MjZ2LTUuNDg1YzAtMS4zNzEgMC0zLjA4Ny0xLjktMy4wODctMS44OTggMC0yLjA3MyAxLjM3Mi0yLjA3MyAyLjkxNlYyMC40SDkuMzI1VjguOTE1aDMuNDU0djEuNTQxYy42OS0xLjIgMi4wNzMtMS44ODUgMy40NTMtMS44ODUgMy42MjcgMCA0LjMxNiAyLjQgNC4zMTYgNS40ODV6Ii8%2BPC9zdmc%2B)](https://www.linkedin.com/in/mel-turham)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tchoikuemel06@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-PDF-52525B?style=flat-square&logo=readdotcv&logoColor=white)](https://melturham.me/resume/TCHOIKUE_MEL_TURHAM_RESUME.pdf)
 
@@ -15,19 +16,17 @@
 
 ## About
 
-I'm a **software engineer** based in **Douala, Cameroon**. I build web and mobile products with **React, Next.js and TypeScript**, and I care about clean architecture, maintainable code and the details that make software pleasant to use.
+I'm a **Mid-level Software Engineer** based in **Douala, Cameroon**. I build web and mobile products with **React, Next.js and TypeScript**, and I care about clean architecture, maintainable code and the details that make software pleasant to use.
 
-- 💼 **Full-stack developer at [HES Digital Service](https://www.hesdigitalservices.com/)**: web features with React and Next.js, REST APIs with Node.js and Express, and mobile apps with React Native.
+- 💼 **Mid-level Software Engineer at [HES Digital Service](https://www.hesdigitalservices.com/)**, building web and mobile products that solve real business and organizational needs.
 
-- 🚀 **Front-end developer on [NEXMA](https://melturham.me/projects/nexma)**, a SaaS for managing teams and organizations, and **[Multi-Services EG](https://melturham.me/projects/multi-services-eg)**, a services business with an online shop and admin dashboard.
+- 🚀 **Front-end developer on [NEXMA](https://melturham.me/projects/nexma)** (web and mobile), a SaaS for managing teams and organizations, and on **[Multi-Services EG](https://melturham.me/projects/multi-services-eg)**, a services business with an online shop and admin dashboard.
 
 - 🎓 **Master's degree in Software Engineering**, Coastal University Institute (IUC), Douala, 2026.
 
-- 🧠 Interested in **software architecture**, **backend systems** and **engineering fundamentals**.
-
 - 🗣️ **French** (native) · **English** (improving)
 
-## Tech stack
+## Tech stack & tools
 
 <table width="100%">
 <tr>
@@ -56,55 +55,24 @@ I'm a **software engineer** based in **Douala, Cameroon**. I build web and mobil
 </tr>
 </table>
 
-## What I care about
-
-**Good software is more than working software.** I care about clear architecture, thoughtful UX, reliable systems, and code that remains easy to understand as a product grows.
-
 ## Selected work
 
-<table>
-<tr>
-<td width="50%" valign="top">
+- **[NEXMA](https://melturham.me/projects/nexma)** — Team and organization management: shared calendar, contracts with task boards, members and roles, time tracking.<br /><sub>Next.js · TypeScript · TanStack Query · Zustand · Tailwind CSS</sub>
+- **[Multi-Services EG](https://melturham.me/projects/multi-services-eg)** — Cleaning services business: public site, online shop, booking and a full admin dashboard.<br /><sub>Next.js · TypeScript · SWR · Zustand · Zod</sub>
+- **[Diggers & Bandits](https://melturham.me/projects/diggers-and-bandits)** — RC construction experience with a multi-step booking flow and email confirmations.<br /><sub>Next.js · TypeScript · React Hook Form · Zod · Resend</sub>
+- **[CITIVA Consult](https://melturham.me/projects/citiva-consult)** — Corporate website for a construction and consulting firm, with content managed in a CMS.<br /><sub>Next.js · TypeScript · Sanity</sub>
 
-### [NEXMA](https://melturham.me/projects/nexma)
+**[View all projects →](https://melturham.me/projects)**
 
-A SaaS platform for managing teams and organizations, covering scheduling, contracts, roles, and time tracking.
+## How I work
 
-**[View project →](https://melturham.me/projects/nexma)**
+**Good software is more than working software.** I aim for clear architecture, thoughtful UX and code that stays easy to change as a product grows.
 
-</td>
-<td width="50%" valign="top">
+- **TypeScript** throughout, with runtime validation through **Zod**
+- Linting and formatting with **Biome**, and **GitHub Actions** checks on every change
+- Features owned end to end, from project setup to **production deployment**
 
-### [Diggers & Bandits](https://melturham.me/projects/diggers-and-bandits)
+## Currently
 
-An interactive website for an RC construction experience, featuring a guided multi-step booking flow.
-
-**[View project →](https://melturham.me/projects/diggers-and-bandits)**
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### [CITIVA Consult](https://melturham.me/projects/citiva-consult)
-
-A corporate website for a construction and consulting firm, with structured content managed through a CMS.
-
-**[View project →](https://melturham.me/projects/citiva-consult)**
-
-</td>
-<td width="50%" valign="top">
-
-### More projects coming
-
-I'm continuously building and experimenting with new products across web, backend, and AI.
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <a href="https://melturham.me/projects">View all projects →</a>
-</p>
-
+- 📚 Learning **Go** for backend services
+- 🏗️ Going deeper into **software architecture** and **design patterns**
