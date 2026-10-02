@@ -27,40 +27,36 @@ I'm a **Mid-level Software Engineerr** based in Douala, Cameroon, focused on bui
 
 <table width="100%">
 <tr>
-<td align="center" width="11%"><a href="https://www.typescriptlang.org"><img src="https://skillicons.dev/icons?i=ts" width="64" height="64" alt="TypeScript" title="TypeScript" /></a></td>
-<td align="center" width="11%"><a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="64" height="64" alt="JavaScript" title="JavaScript" /></a></td>
-<td align="center" width="11%"><a href="https://go.dev"><img src="https://skillicons.dev/icons?i=go" width="64" height="64" alt="Go (learning)" title="Go (learning)" /></a></td>
-<td align="center" width="11%"><a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react" width="64" height="64" alt="React" title="React" /></a></td>
-<td align="center" width="11%"><a href="https://nextjs.org"><img src="https://skillicons.dev/icons?i=nextjs" width="64" height="64" alt="Next.js" title="Next.js" /></a></td>
-<td align="center" width="11%"><a href="https://tailwindcss.com"><img src="https://skillicons.dev/icons?i=tailwind" width="64" height="64" alt="Tailwind CSS" title="Tailwind CSS" /></a></td>
-<td align="center" width="11%"><a href="https://ui.shadcn.com"><img src="images/stack/shadcn.svg" width="64" height="64" alt="shadcn/ui" title="shadcn/ui" /></a></td>
-<td align="center" width="11%"><a href="https://www.radix-ui.com"><img src="images/stack/radix-ui.svg" width="64" height="64" alt="Radix UI" title="Radix UI" /></a></td>
-<td align="center" width="11%"><a href="https://base-ui.com"><img src="images/stack/base-ui.svg" width="64" height="64" alt="Base UI" title="Base UI" /></a></td>
+<td align="center" width="12.5%"><a href="https://www.typescriptlang.org"><img src="images/stack/typescript.svg" width="52" height="52" alt="TypeScript" title="TypeScript" /></a><br /><sub>TypeScript</sub></td>
+<td align="center" width="12.5%"><a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="images/stack/js.svg" width="52" height="52" alt="JavaScript" title="JavaScript" /></a><br /><sub>JavaScript</sub></td>
+<td align="center" width="12.5%"><a href="https://go.dev"><img src="images/stack/go.svg" width="52" height="52" alt="Go (learning)" title="Go (learning)" /></a><br /><sub>Go (learning)</sub></td>
+<td align="center" width="12.5%"><a href="https://react.dev"><img src="images/stack/react.svg" width="52" height="52" alt="React" title="React" /></a><br /><sub>React</sub></td>
+<td align="center" width="12.5%"><a href="https://nextjs.org"><picture><source media="(prefers-color-scheme: dark)" srcset="images/stack/nextjs-dark.svg" /><img src="images/stack/nextjs-light.svg" width="52" height="52" alt="Next.js" title="Next.js" /></picture></a><br /><sub>Next.js</sub></td>
+<td align="center" width="12.5%"><a href="https://tailwindcss.com"><img src="images/stack/tailwindcss.svg" width="52" height="52" alt="Tailwind CSS" title="Tailwind CSS" /></a><br /><sub>Tailwind CSS</sub></td>
+<td align="center" width="12.5%"><a href="https://ui.shadcn.com"><picture><source media="(prefers-color-scheme: dark)" srcset="images/stack/shadcnui-dark.svg" /><img src="images/stack/shadcnui-light.svg" width="52" height="52" alt="shadcn/ui" title="shadcn/ui" /></picture></a><br /><sub>shadcn/ui</sub></td>
+<td align="center" width="12.5%"><a href="https://www.radix-ui.com"><picture><source media="(prefers-color-scheme: dark)" srcset="images/stack/radixui-dark.svg" /><img src="images/stack/radixui-light.svg" width="52" height="52" alt="Radix UI" title="Radix UI" /></picture></a><br /><sub>Radix UI</sub></td>
 </tr>
 <tr>
-<td align="center" width="11%"><a href="https://motion.dev"><img src="images/stack/motion.svg" width="64" height="64" alt="Motion" title="Motion" /></a></td>
-<td align="center" width="11%"><a href="https://expo.dev"><img src="images/stack/expo.svg" width="64" height="64" alt="Expo" title="Expo" /></a></td>
-<td align="center" width="11%"><a href="https://tanstack.com"><img src="images/stack/tanstack.svg" width="64" height="64" alt="TanStack" title="TanStack" /></a></td>
-<td align="center" width="11%"><a href="https://zustand-demo.pmnd.rs"><img src="images/stack/zustand.svg" width="64" height="64" alt="Zustand" title="Zustand" /></a></td>
-<td align="center" width="11%"><a href="https://bun.sh"><img src="https://skillicons.dev/icons?i=bun" width="64" height="64" alt="Bun" title="Bun" /></a></td>
-<td align="center" width="11%"><a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" width="64" height="64" alt="Node.js" title="Node.js" /></a></td>
-<td align="center" width="11%"><a href="https://expressjs.com"><img src="https://skillicons.dev/icons?i=express" width="64" height="64" alt="Express.js" title="Express.js" /></a></td>
-<td align="center" width="11%"><a href="https://www.postgresql.org"><img src="https://skillicons.dev/icons?i=postgres" width="64" height="64" alt="PostgreSQL" title="PostgreSQL" /></a></td>
-<td align="center" width="11%"><a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql" width="64" height="64" alt="MySQL" title="MySQL" /></a></td>
+<td align="center" width="12.5%"><a href="https://base-ui.com"><picture><source media="(prefers-color-scheme: dark)" srcset="images/stack/baseui-dark.svg" /><img src="images/stack/baseui-light.svg" width="52" height="52" alt="Base UI" title="Base UI" /></picture></a><br /><sub>Base UI</sub></td>
+<td align="center" width="12.5%"><a href="https://motion.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="images/stack/motion-dark.svg" /><img src="images/stack/motion-light.svg" width="52" height="52" alt="Motion" title="Motion" /></picture></a><br /><sub>Motion</sub></td>
+<td align="center" width="12.5%"><a href="https://expo.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="images/stack/expo-dark.svg" /><img src="images/stack/expo-light.svg" width="52" height="52" alt="Expo" title="Expo" /></picture></a><br /><sub>Expo</sub></td>
+<td align="center" width="12.5%"><a href="https://tanstack.com"><img src="images/stack/tanstack.svg" width="52" height="52" alt="TanStack" title="TanStack" /></a><br /><sub>TanStack</sub></td>
+<td align="center" width="12.5%"><a href="https://zustand-demo.pmnd.rs"><picture><source media="(prefers-color-scheme: dark)" srcset="images/stack/zustand-dark.svg" /><img src="images/stack/zustand-light.svg" width="52" height="52" alt="Zustand" title="Zustand" /></picture></a><br /><sub>Zustand</sub></td>
+<td align="center" width="12.5%"><a href="https://bun.sh"><img src="images/stack/bunjs.svg" width="52" height="52" alt="Bun" title="Bun" /></a><br /><sub>Bun</sub></td>
+<td align="center" width="12.5%"><a href="https://nodejs.org"><img src="images/stack/nodejs.svg" width="52" height="52" alt="Node.js" title="Node.js" /></a><br /><sub>Node.js</sub></td>
+<td align="center" width="12.5%"><a href="https://expressjs.com"><picture><source media="(prefers-color-scheme: dark)" srcset="images/stack/expressjs-dark.svg" /><img src="images/stack/expressjs-light.svg" width="52" height="52" alt="Express.js" title="Express.js" /></picture></a><br /><sub>Express.js</sub></td>
 </tr>
 <tr>
-<td align="center" width="11%"><a href="https://www.mongodb.com"><img src="https://skillicons.dev/icons?i=mongodb" width="64" height="64" alt="MongoDB" title="MongoDB" /></a></td>
-<td align="center" width="11%"><a href="https://vite.dev"><img src="https://skillicons.dev/icons?i=vite" width="64" height="64" alt="Vite" title="Vite" /></a></td>
-<td align="center" width="11%"><a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" width="64" height="64" alt="Git" title="Git" /></a></td>
-<td align="center" width="11%"><a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" width="64" height="64" alt="GitHub" title="GitHub" /></a></td>
-<td align="center" width="11%"><a href="https://github.com/features/actions"><img src="https://skillicons.dev/icons?i=githubactions" width="64" height="64" alt="GitHub Actions" title="GitHub Actions" /></a></td>
-<td align="center" width="11%"><a href="https://zed.dev"><img src="images/stack/zed.svg" width="64" height="64" alt="Zed" title="Zed" /></a></td>
-<td align="center" width="11%"><a href="https://search.google.com/search-console"><img src="images/stack/google-search-console.svg" width="64" height="64" alt="Search Console" title="Search Console" /></a></td>
-<td align="center" width="11%"><a href="https://marketingplatform.google.com/about/analytics"><img src="images/stack/google-analytics.svg" width="64" height="64" alt="Google Analytics" title="Google Analytics" /></a></td>
-<td align="center" width="11%"><a href="https://tagmanager.google.com"><img src="images/stack/google-tag-manager.svg" width="64" height="64" alt="Tag Manager" title="Tag Manager" /></a></td>
+<td align="center" width="12.5%"><a href="https://www.postgresql.org"><img src="images/stack/postgresql.svg" width="52" height="52" alt="PostgreSQL" title="PostgreSQL" /></a><br /><sub>PostgreSQL</sub></td>
+<td align="center" width="12.5%"><a href="https://www.mysql.com"><img src="images/stack/mysql.svg" width="52" height="52" alt="MySQL" title="MySQL" /></a><br /><sub>MySQL</sub></td>
+<td align="center" width="12.5%"><a href="https://www.mongodb.com"><picture><source media="(prefers-color-scheme: dark)" srcset="images/stack/mongodb-dark.svg" /><img src="images/stack/mongodb-light.svg" width="52" height="52" alt="MongoDB" title="MongoDB" /></picture></a><br /><sub>MongoDB</sub></td>
+<td align="center" width="12.5%"><a href="https://vite.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="images/stack/vitejs-dark.svg" /><img src="images/stack/vitejs-light.svg" width="52" height="52" alt="Vite" title="Vite" /></picture></a><br /><sub>Vite</sub></td>
+<td align="center" width="12.5%"><a href="https://git-scm.com"><img src="images/stack/git.svg" width="52" height="52" alt="Git" title="Git" /></a><br /><sub>Git</sub></td>
+<td align="center" width="12.5%"><a href="https://github.com"><picture><source media="(prefers-color-scheme: dark)" srcset="images/stack/github-dark.svg" /><img src="images/stack/github-light.svg" width="52" height="52" alt="GitHub" title="GitHub" /></picture></a><br /><sub>GitHub</sub></td>
+<td align="center" width="12.5%"><a href="https://zed.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="images/stack/zed-dark.svg" /><img src="images/stack/zed-light.svg" width="52" height="52" alt="Zed" title="Zed" /></picture></a><br /><sub>Zed</sub></td>
+<td align="center" width="12.5%"><a href="https://melturham.me"><sub><b>+ more on<br />melturham.me</b></sub></a></td>
 </tr>
 </table>
-
 
 ## What I care about
 
