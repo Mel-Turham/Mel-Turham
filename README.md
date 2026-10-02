@@ -3,7 +3,7 @@
 <a href="https://melturham.me">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="images/header-dark.svg" />
-    <img src="images/header-light.svg" width="100%" alt="Mel Turham — Mid-level Software Engineer based in Douala, Cameroon" />
+    <img src="images/header-light.svg" width="100%" alt="Mel Turham — Software Engineer based in Douala, Cameroon" />
   </picture>
 </a>
 
@@ -16,15 +16,15 @@
 
 ## About
 
-I'm a **Mid-level Software Engineer** based in **Douala, Cameroon**. I build web and mobile products with **React, Next.js and TypeScript**, and I care about clean architecture, maintainable code and the details that make software pleasant to use.
+I'm a **Software Engineer** based in **Douala, Cameroon**, focused on building practical, reliable and well-structured digital products. I enjoy turning ideas and requirements into thoughtful user experiences and production-ready software, with an emphasis on clean architecture, maintainability and attention to detail.
 
-- 💼 **Mid-level Software Engineer at [HES Digital Service](https://www.hesdigitalservices.com/)**, building web and mobile products that solve real business and organizational needs.
+- **Software Engineer at [HES Digital Service](https://www.hesdigitalservices.com/)**, contributing to web and mobile products that solve real business and organizational needs.
 
-- 🚀 **Front-end developer on [NEXMA](https://melturham.me/projects/nexma)** (web and mobile), a SaaS for managing teams and organizations, and on **[Multi-Services EG](https://melturham.me/projects/multi-services-eg)**, a services business with an online shop and admin dashboard.
+- **Front-end developer on [NEXMA](https://melturham.me/projects/nexma)** (web and mobile), a SaaS for managing teams and organizations, and on **[Multi-Services EG](https://melturham.me/projects/multi-services-eg)**, a services business with an online shop and admin dashboard.
 
-- 🎓 **Master's degree in Software Engineering**, Coastal University Institute (IUC), Douala, 2026.
+- **Master's degree in Software Engineering**, Coastal University Institute (IUC), Douala, 2026.
 
-- 🗣️ **French** (native) · **English** (improving)
+- **Languages:** French (native) · English (improving)
 
 ## Tech stack & tools
 
@@ -57,22 +57,22 @@ I'm a **Mid-level Software Engineer** based in **Douala, Cameroon**. I build web
 
 ## Selected work
 
-- **[NEXMA](https://melturham.me/projects/nexma)** — Team and organization management: shared calendar, contracts with task boards, members and roles, time tracking.<br /><sub>Next.js · TypeScript · TanStack Query · Zustand · Tailwind CSS</sub>
-- **[Multi-Services EG](https://melturham.me/projects/multi-services-eg)** — Cleaning services business: public site, online shop, booking and a full admin dashboard.<br /><sub>Next.js · TypeScript · SWR · Zustand · Zod</sub>
-- **[Diggers & Bandits](https://melturham.me/projects/diggers-and-bandits)** — RC construction experience with a multi-step booking flow and email confirmations.<br /><sub>Next.js · TypeScript · React Hook Form · Zod · Resend</sub>
-- **[CITIVA Consult](https://melturham.me/projects/citiva-consult)** — Corporate website for a construction and consulting firm, with content managed in a CMS.<br /><sub>Next.js · TypeScript · Sanity</sub>
+**[NEXMA](https://melturham.me/projects/nexma)**<br />Team and organization management: shared calendar, contracts with task boards, members and roles, time tracking.<br /><sub>Next.js · TypeScript · TanStack Query · Zustand · Tailwind CSS</sub>
+
+**[Multi-Services EG](https://melturham.me/projects/multi-services-eg)**<br />Cleaning services business: public site, online shop, booking and a full admin dashboard.<br /><sub>Next.js · TypeScript · SWR · Zustand · Zod</sub>
+
+**[Diggers & Bandits](https://melturham.me/projects/diggers-and-bandits)**<br />RC construction experience with a multi-step booking flow and email confirmations.<br /><sub>Next.js · TypeScript · React Hook Form · Zod · Resend</sub>
+
+**[CITIVA Consult](https://melturham.me/projects/citiva-consult)**<br />Corporate website for a construction and consulting firm, with content managed in a CMS.<br /><sub>Next.js · TypeScript · Sanity</sub>
 
 **[View all projects →](https://melturham.me/projects)**
 
-## How I work
+## What I care about
 
-**Good software is more than working software.** I aim for clear architecture, thoughtful UX and code that stays easy to change as a product grows.
+**Good software is more than working software.** I care about clear architecture, thoughtful UX and code that stays easy to understand as a product grows.
 
-- **TypeScript** throughout, with runtime validation through **Zod**
-- Linting and formatting with **Biome**, and **GitHub Actions** checks on every change
-- Features owned end to end, from project setup to **production deployment**
+I like owning a feature from start to finish: understanding the need, shaping a clean solution, and shipping it reliably to production.
 
 ## Currently
 
-- 📚 Learning **Go** for backend services
-- 🏗️ Going deeper into **software architecture** and **design patterns**
+Learning **Go** for backend services, and going deeper into **software architecture** and **design patterns**.
