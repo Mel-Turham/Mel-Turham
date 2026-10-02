@@ -27,34 +27,28 @@ I'm a **Mid-level Software Engineerr** based in Douala, Cameroon, focused on bui
 
 <table width="100%">
 <tr>
-<td align="center" width="12.5%"><a href="https://www.typescriptlang.org"><img src="images/stack/typescript.svg" width="52" height="52" alt="TypeScript" title="TypeScript" /></a><br /><sub>TypeScript</sub></td>
-<td align="center" width="12.5%"><a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="images/stack/js.svg" width="52" height="52" alt="JavaScript" title="JavaScript" /></a><br /><sub>JavaScript</sub></td>
-<td align="center" width="12.5%"><a href="https://go.dev"><img src="images/stack/go.svg" width="52" height="52" alt="Go (learning)" title="Go (learning)" /></a><br /><sub>Go (learning)</sub></td>
-<td align="center" width="12.5%"><a href="https://react.dev"><img src="images/stack/react.svg" width="52" height="52" alt="React" title="React" /></a><br /><sub>React</sub></td>
-<td align="center" width="12.5%"><a href="https://nextjs.org"><picture><source media="(prefers-color-scheme: dark)" srcset="images/stack/nextjs-dark.svg" /><img src="images/stack/nextjs-light.svg" width="52" height="52" alt="Next.js" title="Next.js" /></picture></a><br /><sub>Next.js</sub></td>
-<td align="center" width="12.5%"><a href="https://tailwindcss.com"><img src="images/stack/tailwindcss.svg" width="52" height="52" alt="Tailwind CSS" title="Tailwind CSS" /></a><br /><sub>Tailwind CSS</sub></td>
-<td align="center" width="12.5%"><a href="https://ui.shadcn.com"><picture><source media="(prefers-color-scheme: dark)" srcset="images/stack/shadcnui-dark.svg" /><img src="images/stack/shadcnui-light.svg" width="52" height="52" alt="shadcn/ui" title="shadcn/ui" /></picture></a><br /><sub>shadcn/ui</sub></td>
-<td align="center" width="12.5%"><a href="https://www.radix-ui.com"><picture><source media="(prefers-color-scheme: dark)" srcset="images/stack/radixui-dark.svg" /><img src="images/stack/radixui-light.svg" width="52" height="52" alt="Radix UI" title="Radix UI" /></picture></a><br /><sub>Radix UI</sub></td>
+<td align="center" width="10%"><img src="images/spacer.svg" align="left" width="2000" height="1" alt="" /><a href="https://www.typescriptlang.org"><img src="images/stack/typescript.png" width="56" height="56" alt="TypeScript" title="TypeScript" /></a><br /><sub>TypeScript</sub></td>
+<td align="center" width="10%"><a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="images/stack/javascript.png" width="56" height="56" alt="JavaScript" title="JavaScript" /></a><br /><sub>JavaScript</sub></td>
+<td align="center" width="10%"><a href="https://go.dev"><img src="images/stack/go.png" width="56" height="56" alt="Go (learning)" title="Go (learning)" /></a><br /><sub>Go (learning)</sub></td>
+<td align="center" width="10%"><a href="https://react.dev"><img src="images/stack/react.png" width="56" height="56" alt="React" title="React" /></a><br /><sub>React</sub></td>
+<td align="center" width="10%"><a href="https://nextjs.org"><img src="images/stack/next_js.png" width="56" height="56" alt="Next.js" title="Next.js" /></a><br /><sub>Next.js</sub></td>
+<td align="center" width="10%"><a href="https://tailwindcss.com"><img src="images/stack/tailwind_css.png" width="56" height="56" alt="Tailwind CSS" title="Tailwind CSS" /></a><br /><sub>Tailwind CSS</sub></td>
+<td align="center" width="10%"><a href="https://ui.shadcn.com"><img src="images/stack/shadcn_ui.png" width="56" height="56" alt="shadcn/ui" title="shadcn/ui" /></a><br /><sub>shadcn/ui</sub></td>
+<td align="center" width="10%"><a href="https://expo.dev"><img src="images/stack/expo.png" width="56" height="56" alt="Expo" title="Expo" /></a><br /><sub>Expo</sub></td>
+<td align="center" width="10%"><a href="https://tanstack.com/query"><img src="images/stack/react_query.png" width="56" height="56" alt="TanStack Query" title="TanStack Query" /></a><br /><sub>TanStack Query</sub></td>
+<td align="center" width="10%"><a href="https://bun.sh"><img src="images/stack/bun_js.png" width="56" height="56" alt="Bun" title="Bun" /></a><br /><sub>Bun</sub></td>
 </tr>
 <tr>
-<td align="center" width="12.5%"><a href="https://base-ui.com"><picture><source media="(prefers-color-scheme: dark)" srcset="images/stack/baseui-dark.svg" /><img src="images/stack/baseui-light.svg" width="52" height="52" alt="Base UI" title="Base UI" /></picture></a><br /><sub>Base UI</sub></td>
-<td align="center" width="12.5%"><a href="https://motion.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="images/stack/motion-dark.svg" /><img src="images/stack/motion-light.svg" width="52" height="52" alt="Motion" title="Motion" /></picture></a><br /><sub>Motion</sub></td>
-<td align="center" width="12.5%"><a href="https://expo.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="images/stack/expo-dark.svg" /><img src="images/stack/expo-light.svg" width="52" height="52" alt="Expo" title="Expo" /></picture></a><br /><sub>Expo</sub></td>
-<td align="center" width="12.5%"><a href="https://tanstack.com"><img src="images/stack/tanstack.svg" width="52" height="52" alt="TanStack" title="TanStack" /></a><br /><sub>TanStack</sub></td>
-<td align="center" width="12.5%"><a href="https://zustand-demo.pmnd.rs"><picture><source media="(prefers-color-scheme: dark)" srcset="images/stack/zustand-dark.svg" /><img src="images/stack/zustand-light.svg" width="52" height="52" alt="Zustand" title="Zustand" /></picture></a><br /><sub>Zustand</sub></td>
-<td align="center" width="12.5%"><a href="https://bun.sh"><img src="images/stack/bunjs.svg" width="52" height="52" alt="Bun" title="Bun" /></a><br /><sub>Bun</sub></td>
-<td align="center" width="12.5%"><a href="https://nodejs.org"><img src="images/stack/nodejs.svg" width="52" height="52" alt="Node.js" title="Node.js" /></a><br /><sub>Node.js</sub></td>
-<td align="center" width="12.5%"><a href="https://expressjs.com"><picture><source media="(prefers-color-scheme: dark)" srcset="images/stack/expressjs-dark.svg" /><img src="images/stack/expressjs-light.svg" width="52" height="52" alt="Express.js" title="Express.js" /></picture></a><br /><sub>Express.js</sub></td>
-</tr>
-<tr>
-<td align="center" width="12.5%"><a href="https://www.postgresql.org"><img src="images/stack/postgresql.svg" width="52" height="52" alt="PostgreSQL" title="PostgreSQL" /></a><br /><sub>PostgreSQL</sub></td>
-<td align="center" width="12.5%"><a href="https://www.mysql.com"><img src="images/stack/mysql.svg" width="52" height="52" alt="MySQL" title="MySQL" /></a><br /><sub>MySQL</sub></td>
-<td align="center" width="12.5%"><a href="https://www.mongodb.com"><picture><source media="(prefers-color-scheme: dark)" srcset="images/stack/mongodb-dark.svg" /><img src="images/stack/mongodb-light.svg" width="52" height="52" alt="MongoDB" title="MongoDB" /></picture></a><br /><sub>MongoDB</sub></td>
-<td align="center" width="12.5%"><a href="https://vite.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="images/stack/vitejs-dark.svg" /><img src="images/stack/vitejs-light.svg" width="52" height="52" alt="Vite" title="Vite" /></picture></a><br /><sub>Vite</sub></td>
-<td align="center" width="12.5%"><a href="https://git-scm.com"><img src="images/stack/git.svg" width="52" height="52" alt="Git" title="Git" /></a><br /><sub>Git</sub></td>
-<td align="center" width="12.5%"><a href="https://github.com"><picture><source media="(prefers-color-scheme: dark)" srcset="images/stack/github-dark.svg" /><img src="images/stack/github-light.svg" width="52" height="52" alt="GitHub" title="GitHub" /></picture></a><br /><sub>GitHub</sub></td>
-<td align="center" width="12.5%"><a href="https://zed.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="images/stack/zed-dark.svg" /><img src="images/stack/zed-light.svg" width="52" height="52" alt="Zed" title="Zed" /></picture></a><br /><sub>Zed</sub></td>
-<td align="center" width="12.5%"><a href="https://melturham.me"><sub><b>More on melturham.me →</b></sub></a></td>
+<td align="center" width="10%"><a href="https://nodejs.org"><img src="images/stack/node_js.png" width="56" height="56" alt="Node.js" title="Node.js" /></a><br /><sub>Node.js</sub></td>
+<td align="center" width="10%"><a href="https://expressjs.com"><img src="images/stack/express.png" width="56" height="56" alt="Express.js" title="Express.js" /></a><br /><sub>Express.js</sub></td>
+<td align="center" width="10%"><a href="https://www.postgresql.org"><img src="images/stack/postgresql.png" width="56" height="56" alt="PostgreSQL" title="PostgreSQL" /></a><br /><sub>PostgreSQL</sub></td>
+<td align="center" width="10%"><a href="https://www.mysql.com"><img src="images/stack/mysql.png" width="56" height="56" alt="MySQL" title="MySQL" /></a><br /><sub>MySQL</sub></td>
+<td align="center" width="10%"><a href="https://www.mongodb.com"><img src="images/stack/mongodb.png" width="56" height="56" alt="MongoDB" title="MongoDB" /></a><br /><sub>MongoDB</sub></td>
+<td align="center" width="10%"><a href="https://vite.dev"><img src="images/stack/vite.png" width="56" height="56" alt="Vite" title="Vite" /></a><br /><sub>Vite</sub></td>
+<td align="center" width="10%"><a href="https://git-scm.com"><img src="images/stack/git.png" width="56" height="56" alt="Git" title="Git" /></a><br /><sub>Git</sub></td>
+<td align="center" width="10%"><a href="https://github.com"><img src="images/stack/github.png" width="56" height="56" alt="GitHub" title="GitHub" /></a><br /><sub>GitHub</sub></td>
+<td align="center" width="10%"><a href="https://github.com/features/actions"><img src="images/stack/githubactions.png" width="56" height="56" alt="GitHub Actions" title="GitHub Actions" /></a><br /><sub>GitHub Actions</sub></td>
+<td align="center" width="10%"><a href="https://zed.dev"><img src="images/stack/zed_ide.png" width="56" height="56" alt="Zed" title="Zed" /></a><br /><sub>Zed</sub></td>
 </tr>
 </table>
 
