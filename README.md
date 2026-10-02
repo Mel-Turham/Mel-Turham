@@ -54,7 +54,7 @@ I'm a **Mid-level Software Engineerr** based in Douala, Cameroon, focused on bui
 <td align="center" width="12.5%"><a href="https://git-scm.com"><img src="images/stack/git.svg" width="52" height="52" alt="Git" title="Git" /></a><br /><sub>Git</sub></td>
 <td align="center" width="12.5%"><a href="https://github.com"><picture><source media="(prefers-color-scheme: dark)" srcset="images/stack/github-dark.svg" /><img src="images/stack/github-light.svg" width="52" height="52" alt="GitHub" title="GitHub" /></picture></a><br /><sub>GitHub</sub></td>
 <td align="center" width="12.5%"><a href="https://zed.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="images/stack/zed-dark.svg" /><img src="images/stack/zed-light.svg" width="52" height="52" alt="Zed" title="Zed" /></picture></a><br /><sub>Zed</sub></td>
-<td align="center" width="12.5%"><a href="https://melturham.me"><sub><b>+ more on<br />melturham.me</b></sub></a></td>
+<td align="center" width="12.5%"><a href="https://melturham.me"><sub><b>More on melturham.me →</b></sub></a></td>
 </tr>
 </table>
 
