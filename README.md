@@ -15,13 +15,17 @@
 
 ## About
 
-I'm a **Mid-level Software Engineerr** based in Douala, Cameroon, focused on building practical, reliable, and well-structured digital products. I enjoy turning ideas and requirements into thoughtful user experiences and production-ready software, with an emphasis on clean architecture, maintainability, and attention to detail.
+I'm a **software engineer** based in **Douala, Cameroon**. I build web and mobile products with **React, Next.js and TypeScript**, and I care about clean architecture, maintainable code and the details that make software pleasant to use.
 
-* 💼 **Software Engineer at [HES Digital Service](https://www.hesdigitalservices.com/)**, contributing to web and mobile products used to solve real business and organizational needs.
-* 🚀 Built and contributed to products such as [**NEXMA**](https://melturham.me/projects/nexma), a SaaS platform for team and organization management, and [**Multi-Services EG**](https://melturham.me/projects/multi-services-eg), a business platform with an online shop and administration tools.
-* 🎓 **Master's in Software Engineering**, Coastal University Institute (IUC), Douala, 2026.
-* 🧠 Interested in **software architecture, product development, backend systems, and engineering fundamentals**.
-* 🗣️ **French** (native) · **English** (improving)
+- 💼 **Full-stack developer at [HES Digital Service](https://www.hesdigitalservices.com/)**: web features with React and Next.js, REST APIs with Node.js and Express, and mobile apps with React Native.
+
+- 🚀 **Front-end developer on [NEXMA](https://melturham.me/projects/nexma)**, a SaaS for managing teams and organizations, and **[Multi-Services EG](https://melturham.me/projects/multi-services-eg)**, a services business with an online shop and admin dashboard.
+
+- 🎓 **Master's degree in Software Engineering**, Coastal University Institute (IUC), Douala, 2026.
+
+- 🧠 Interested in **software architecture**, **backend systems** and **engineering fundamentals**.
+
+- 🗣️ **French** (native) · **English** (improving)
 
 ## Tech stack
 
