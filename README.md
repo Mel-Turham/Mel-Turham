@@ -55,18 +55,6 @@ I'm a **Software Engineer** based in **Douala, Cameroon**, focused on building p
 </tr>
 </table>
 
-## Selected work
-
-**[NEXMA](https://melturham.me/projects/nexma)**<br />Team and organization management: shared calendar, contracts with task boards, members and roles, time tracking.<br /><sub>Next.js · TypeScript · TanStack Query · Zustand · Tailwind CSS</sub>
-
-**[Multi-Services EG](https://melturham.me/projects/multi-services-eg)**<br />Cleaning services business: public site, online shop, booking and a full admin dashboard.<br /><sub>Next.js · TypeScript · SWR · Zustand · Zod</sub>
-
-**[Diggers & Bandits](https://melturham.me/projects/diggers-and-bandits)**<br />RC construction experience with a multi-step booking flow and email confirmations.<br /><sub>Next.js · TypeScript · React Hook Form · Zod · Resend</sub>
-
-**[CITIVA Consult](https://melturham.me/projects/citiva-consult)**<br />Corporate website for a construction and consulting firm, with content managed in a CMS.<br /><sub>Next.js · TypeScript · Sanity</sub>
-
-**[View all projects →](https://melturham.me/projects)**
-
 ## What I care about
 
 **Good software is more than working software.** I care about clear architecture, thoughtful UX and code that stays easy to understand as a product grows.
